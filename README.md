@@ -1,5 +1,5 @@
 
-### Hello
+### Hi
 
 <!--
 ### Hi there 👋
@@ -28,4 +28,8 @@ My name is Phat. I'm 22 year old. I studied about Information Technology at Ton 
 <br>
 Looking forward to finding a suitable job as a software tester so that I can apply and promote my full potential as well as challenge myself to gain more experience and other skills.
 <br>
-
+##Some demo
+<br>
+You can you can try some of my games :) at: https://phattran.itch.io/
+Thank u.
+<br>
