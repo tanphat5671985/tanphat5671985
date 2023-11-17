@@ -19,19 +19,20 @@ Here are some ideas to get you started:
 -->
 I am Phat. I studied at TDTU and specialized of Software Engineering
 <br>
-
 Main: Tester.
 <br />
 ## ABOUT ME
 
-My name is Phat. I'm 22 year old. I studied about Information Technology at Ton Duc Thang University.
+Welcome to my introduction! I'm Phat, a 22-year-old recent graduate with a degree in Information Technology from Ton Duc Thang University. Along my academic journey, I've gained extensive knowledge in Information Technology, with a specific focus on software testing.
 <br>
-Looking forward to finding a suitable job as a software tester so that I can apply and promote my full potential as well as challenge myself to gain more experience and other skills.
+My passion goes beyond merely understanding programming languages and staying abreast of emerging technologies; it extends to the practical application of this knowledge in devising effective testing solutions. Currently, I am actively advancing my proficiency in the field through dedicated studies in automation testing.
 <br>
-
+I am seeking a career opportunity in software testing where I can apply and develop my full potential. I am eager to meet and collaborate with passionate colleagues in a challenging environment where I can continuously learn and enhance my skills.
+<br>
+My commitment and strong work ethic will serve as a constant source of motivation, contributing added value to projects and the organization as a whole. I look forward to the opportunity to meet and further discuss how I can contribute to the success of your team or organization.
 <br />
 
 <br>
-You can you can try some of my games :) at: https://phattran.itch.io/
-Thank u.
+Feel free to explore and try out some of my games at: https://phattran.itch.io/.
+Thank you for stopping by.
 <br>
