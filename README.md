@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name name is Phat. You can call me Peter. I am QA/QC.
+My name is Phat. You can call me Peter. I am QA/QC.
 <br>
 Main: Software Testing.
 <br />
