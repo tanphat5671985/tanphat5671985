@@ -6,7 +6,6 @@ I'm currently working as a **Middle QA/QC Engineer**, with **many years of exper
 
 I’m also **open to freelance or remote QA projects**, especially those involving **Web Application Testing**.
 
----
 
 ## 💼 ABOUT ME
 
@@ -16,7 +15,6 @@ Throughout my career, I’ve gained experience in both **manual** and **automati
 
 My responsibilities include **analyzing system logic**, **identifying root causes**, and **optimizing testing workflows** to improve product quality and delivery efficiency.
 
----
 
 ## 🧠 SKILLS & TOOLS
 
@@ -27,16 +25,6 @@ My responsibilities include **analyzing system logic**, **identifying root cause
 - **Databases:** PostgreSQL, MySQL
 - **Other:** Git, CI/CD, Agile/Scrum
 
----
-
-## 🚀 CURRENT FOCUS
-
-- Strengthening **automation testing frameworks** and reusable test logic
-- Building **data-driven testing** with external sources (e.g. Google Sheets)
-- Enhancing **multi-tab and real-time testing** with Cypress
-- Contributing to **testing strategies** and mentoring junior QA members
-
----
 
 ## 🌱 PERSONAL NOTE
 
@@ -47,7 +35,6 @@ My responsibilities include **analyzing system logic**, **identifying root cause
 
 Thanks for visiting my profile!
 
----
 
 📫 **Get in touch:**
 
